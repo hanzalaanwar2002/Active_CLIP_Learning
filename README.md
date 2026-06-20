@@ -20,9 +20,10 @@ CIFAR-100
 
 ## Repository Structure
 
-notebooks/
-figures/
-results/
+active_clip_learning/
+                     figures/
+                     notebooks/
+                     results/
 
 ## Hardware
 
