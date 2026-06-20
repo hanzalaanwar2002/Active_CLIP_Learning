@@ -1,0 +1,4 @@
+Configuration,Accuracy (%),Improvement over Standard CLIP (%),Improvement over Previous Step (%)
+Standard CLIP,59.33,0.0,0.0
++ Adaptive Prompts,61.09,1.76,1.76
++ Adapter Fine-Tuning + Iterative Active Learning,74.32,14.99,13.23

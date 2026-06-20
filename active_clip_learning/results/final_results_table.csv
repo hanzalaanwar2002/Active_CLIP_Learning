@@ -1,0 +1,5 @@
+Method,Description,Accuracy (%),Improvement over Standard CLIP (%)
+Standard CLIP,Zero-shot CLIP with standard prompts,59.33,0.0
+Adaptive Prompt CLIP,CLIP with semantic adaptive prompt ensemble,61.09,1.7600000000000051
+Proposed Method,Adaptive prompts + lightweight adapter fine-tuning + iterative active learning,74.32,14.989999999999995
+ResNet18 Baseline,Fully supervised ResNet18 trained on full CIFAR-100,79.7,20.370000000000005
